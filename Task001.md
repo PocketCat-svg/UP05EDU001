@@ -27,18 +27,12 @@ https://github.com/ваш-логин/UP05EDU001
 (Опционально, но рекомендуется) Клонируйте свой fork локально
 bash
 
-
-1
-2
 git clone https://github.com/ваш-логин/UP05EDU001.git
 cd UP05EDU001
 (Опционально) Добавьте upstream-связь с оригиналом
 Это позволит вам в будущем получать обновления от преподавателя:
 bash
 
-
-1
-2
 git remote add upstream https://github.com/RooterAI/UP05EDU001.git
 git remote -v  # проверка: должны быть origin и upstream
 Требования к отчёту / подтверждению выполнения
